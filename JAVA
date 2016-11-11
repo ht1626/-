@@ -1,0 +1,2 @@
+servlet的生命周期(init,service,destory),init在什么时候被调用?
+servlet是什么?干什么用的?
