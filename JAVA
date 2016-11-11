@@ -1,2 +1,3 @@
 servlet的生命周期(init,service,destory),init在什么时候被调用?
 servlet是什么?干什么用的?
+单例模式,jvm内存(堆和栈至少要了解,以及他们分别存放什么东西),集合的类型及其区别,数据库相关(如分组,join等关键字)
